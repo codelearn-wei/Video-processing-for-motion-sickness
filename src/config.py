@@ -1,0 +1,4 @@
+# Configuration settings
+
+VIDEO_FRAME_RATE = 30
+ACCELERATION_SAMPLE_RATE = 100
